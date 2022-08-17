@@ -158,7 +158,7 @@ projects:
       - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
         tagline: "Raspberry Pi 3B+ kartı ile Robot Operating System tabanlı, kameradan aldığı görüntüleri işleyerek bu görüntülere göre hareket eden otonom RC tipi araç projesidir."
 
-      - title: Çöp Toplayan Robot
+      - title: Nesne Toplayan Robot
         tagline: "Üzerinde aynı zamanda çizgi sensörü taşıyan ve belirli bir bölgedeki nesneleri mesafe sensörü yardımıyla tespit edip toplayan Arduino tabanlı geliştirdiğim bir robot projesidir."
 
       - title: Meyve ve Sebze Kurutma Sera Otomasyonu
