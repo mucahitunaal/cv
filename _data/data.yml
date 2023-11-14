@@ -79,7 +79,7 @@ experiences:
           - OOP Nesne Yönelimli Programlama
           - Ekip Çalışması
           - I2C,RS232,UART,DPI
-          - USB,USART,SPI,PWM
+          - USB,SPI,PWM
       
     - role: Planlama / Stajyer
       time: 07.2019 - 08.2019
@@ -195,21 +195,21 @@ skills:
     title: YETENEKLER
 
     toolset:
-      - name: Linux,Qt,C++
+      - name: Linux,Qt,C++,OOP,Proteus,Mqtt
         level: 100%
 
-      - name: I2C,RS232,UART,DPI
+      - name: I2C,SPI,RS232,UART,DPI
         level: 100%
 
-      - name: Raspberry Pi,Arduino
+      - name: Raspberry Pi,Arduino,Jetson Nano,ESP
         level: 100%
 
-      - name: USB,USART,C#,Python
+      - name: C#,Python
         level: 85%
 
-      - name: C,OOP,Proteus,PWM
+      - name: STM32,C,PWM
         level: 70%
 
-      - name: Altium,SPI,Java,ROS
+      - name: Java,ROS
         level: 50%
 
