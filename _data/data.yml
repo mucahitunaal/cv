@@ -173,7 +173,7 @@ publications:
     papers:
       - title: Ferhad KALELİ
         link: "https://tr.linkedin.com/in/ferhadkaleli"
-        authors: ROBSEN Robotics | Genel Müdür
+        authors: Robsen Robotics | Genel Müdür
         #conference: 0554
         
       - title: Meryem YILMAZ
@@ -182,13 +182,13 @@ publications:
         #conference: 0542
 
       - title: Mustafa ATAY
-        link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
+        link: "https://tr.linkedin.com/in/mustafaatay4453"
         authors: Skyart Havacılık | Mekatronik Mühendisi
         #conference: 0530
         
-      - title: Lütfi Kadir ÇELEBİ
-        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
-        authors: Bridgesoft  | Yapay Zeka Mühendisi
+      - title: Kadir ÇELEBİ
+        link: "https://tr.linkedin.com/in/lutfi-kadir-celebi"
+        authors: Bridgesoft A.Ş. | Yapay Zeka Mühendisi
         #conference: 0545
 
 skills:
