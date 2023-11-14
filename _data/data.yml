@@ -195,13 +195,16 @@ skills:
     title: YETENEKLER
 
     toolset:
-      - name: Linux,Qt,C++,OOP,Proteus,Mqtt
+      - name: Linux,Qt,C++,OOP
+        level: 100%
+      
+      - name: Arduino,ESP,MQTT,IOT
         level: 100%
 
       - name: I2C,SPI,RS232,UART,DPI
         level: 100%
 
-      - name: Raspberry Pi,Arduino,Jetson Nano,ESP
+      - name: Raspberry Pi,Jetson Nano
         level: 100%
 
       - name: C#,Python
