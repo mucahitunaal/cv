@@ -54,7 +54,7 @@ education:
       university: Süleyman Demirel Üniversitesi
       time: 2015 - 2019
 experiences:
-    - role: Gömülü Donanım Tasarımı / Gömülü Sistemler Mühendisi
+    - role: Gömülü Donanım / Gömülü Sistemler Mühendisi
       time: 01.2023 - Halen
       company: Bridgesoft, Gebze/Kocaeli
       details: |
@@ -70,7 +70,7 @@ experiences:
           - C++
           - Arduino,ESP
           - I2C,SPI
-    - role: Gömülü Sistem Tasarımı / Gömülü Sistemler Tasarımı Mühendisi
+    - role: Gömülü Sistem / Gömülü Sistemler Tasarımı Mühendisi
       time: 08.2022 - 01.2023
       company: Skyart Havacılık, Sultanbeyli/İstanbul
       details: |
