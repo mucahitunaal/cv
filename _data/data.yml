@@ -143,10 +143,13 @@ projects:
     intro: >
       Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
     assignments:
-      - title: Esp ve Mqtt Tabanlı Haberleşme Sistemi
-        link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
-        tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
-        Ayrıca üzerinde çok güçlü bir RF haberleşme sistemi vardır ve sistem sayesinde 5 KM mesafeye kadar kablosuz haberleşebilir. Bu yüzden Wi-Fi haberleşmesi kesilse dahi real-time veri toplamaya devam eder. "
+      - title: Smart SprayeX
+        link: "https://www.youtube.com/watch?v=0ISWOBnMzw4"
+        tagline: "Smart SprayeX yapay zeka ve görüntü işleme tekniklerini kullanarak sadece yabani ota ilaçlama yapabilen bir akıllı tarım projesidir. Bu projenin traktör aküsü üzerinden beslenmesi yani güç regülasyon işlemleri, PCB anakartının tasarlanması, kameralardan dataların toplanması ve gömülü kart tarafındaki yazılımların geliştirilmesi konularında aktif olarak görev almaktayım."
+      
+      - title: Esp ve Mqtt Tabanlı Eğitim Uçağı Haberleşme Sistemi
+        link: "https://www.youtube.com/watch?v=-dRJ2ZwshYQ"
+        tagline: "Skyart, hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını yapan, yurtiçi ve yurtdışı birçok müşterisi olan bir firmadır. Bu firmada görev aldığım süre boyunca akıllı ev sistemlerinde de kullanılan IoT mantığı ile, uçakların iç elektronik aksesuarlarının birbirleri ile haberleşmesini sağlayan sistemin tasarımında görev aldım. AIP,ACP,Handset gibi uçaklarda kullanılan parçaların PCB çizimini, ESP kodlamalarını ve Mqtt server kurulumunu başarıyla gerçekleştirdim."
       
       - title: LoRa ve WiFi Tabanlı Dokunmatik TFT RF Veri Toplama Terminali @rge Hypatia 
         link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
