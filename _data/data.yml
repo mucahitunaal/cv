@@ -183,12 +183,12 @@ publications:
 
       - title: Mustafa ATAY
         link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
-        authors: Skyart | Mekatronik Mühendisi
+        authors: Skyart Havacılık | Mekatronik Mühendisi
         #conference: 0530
         
       - title: Lütfi Kadir ÇELEBİ
         link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
-        authors: Bridgesoft | Yapay Zeka Mühendisi
+        authors: Bridgesoft  | Yapay Zeka Mühendisi
         #conference: 0545
 
 skills:
@@ -198,7 +198,7 @@ skills:
       - name: Linux,Qt,C++,OOP
         level: 100%
       
-      - name: Arduino,ESP,MQTT,IOT
+      - name: Arduino,Esp,Mqtt,IoT
         level: 100%
 
       - name: I2C,SPI,RS232,UART,DPI
