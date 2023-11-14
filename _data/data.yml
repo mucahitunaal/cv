@@ -156,7 +156,6 @@ projects:
         link: "https://drive.google.com/file/d/1QdVpTf8d10EBAKSpsoRGqvixWXe1SDNe/view"
         tagline: "Kişisel bilgisayarı belli bir sürenin sonunda veya belirlenen bir saatte geri sayım olarak kapatmayı sağlayan C# dili ile yazdığım bir programdır."
 
-
       - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
         tagline: "Raspberry Pi 3B+ kartı ile Robot Operating System tabanlı, kameradan aldığı görüntüleri işleyerek bu görüntülere göre hareket eden otonom RC tipi araç projesidir."
 
