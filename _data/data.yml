@@ -77,7 +77,7 @@ experiences:
         Skyart firmasında Gömülü Sistemler Tasarımı Mühendisi olarak görev aldım.
         Tıpkı akıllı ev sistemlerinde kullanılan IoT mantığı ile hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını tasarladım.
         MCU olarak ESP kartı kullandım ve ürünlerin PCB kartını Proteus programı ile tasarlayıp ürettirdikten sonra dizgi işlemlerinde de görev aldım.
-        Daha sonra bu AIP,ACP,Handset gibi parçaların birbirleri ile haberleşebilmesi için bir Mqtt server ağı kurdum ve aralarında bir protokol geliştirerek haberleşmelerini sağladım. "
+        Daha sonra bu AIP,ACP,Handset gibi parçaların birbirleri ile haberleşebilmesi için bir Mqtt server ağı kurdum ve aralarında bir protokol geliştirerek haberleşmelerini sağladım.
           - Mqtt
           - ESP
           - IoT
