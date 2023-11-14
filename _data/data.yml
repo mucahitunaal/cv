@@ -173,22 +173,22 @@ publications:
     papers:
       - title: Ferhad KALELİ
         link: "https://tr.linkedin.com/in/ferhadkaleli"
-        authors: ROBSEN Robotics | Müdür
+        authors: ROBSEN Robotics | Genel Müdür
         #conference: 0554
-        
-      - title: Kerim ŞAHİN
-        link: "https://tr.linkedin.com/in/kerim-sahin"
-        authors: SAMM Teknoloji A.Ş. | Mühendis
-        #conference: 0542
-
-      - title: Mehmet ATALI
-        link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
-        authors: Schneider Electric | Yönetici
-        #conference: 0530
         
       - title: Meryem YILMAZ
         link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
-        authors: Arge Bilişim Ltd. Şti. | Mühendis
+        authors: Arge Bilişim Ltd. Şti. | Bilgisayar Mühendisi
+        #conference: 0542
+
+      - title: Mustafa ATAY
+        link: "https://tr.linkedin.com/in/mehmet-atali-mba-34644433"
+        authors: Skyart | Mekatronik Mühendisi
+        #conference: 0530
+        
+      - title: Lütfi Kadir ÇELEBİ
+        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
+        authors: Bridgesoft | Yapay Zeka Mühendisi
         #conference: 0545
 
 skills:
