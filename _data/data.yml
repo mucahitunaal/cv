@@ -70,11 +70,11 @@ experiences:
           - C++
           - Arduino,ESP
           - I2C,SPI
-    - role: Gömülü Sistem / Gömülü Sistemler Tasarımı Mühendisi
+    - role: Gömülü Sistemler / Gömülü Sistem Tasarımı Mühendisi
       time: 08.2022 - 01.2023
       company: Skyart Havacılık, Sultanbeyli/İstanbul
       details: |
-        Skyart firmasında Gömülü Sistemler Tasarımı Mühendisi olarak görev aldım.
+        Skyart firmasında Gömülü Sistem Tasarımı Mühendisi olarak görev aldım.
         Tıpkı akıllı ev sistemlerinde kullanılan IoT mantığı ile hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını tasarladım.
         MCU olarak ESP kartı kullandım ve ürünlerin PCB kartını Proteus programı ile tasarlayıp ürettirdikten sonra dizgi işlemlerinde de görev aldım.
         Daha sonra bu AIP,ACP,Handset gibi parçaların birbirleri ile haberleşebilmesi için bir Mqtt server ağı kurdum ve aralarında bir protokol geliştirerek haberleşmelerini sağladım.
