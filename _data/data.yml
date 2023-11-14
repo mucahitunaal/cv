@@ -180,7 +180,7 @@ projects:
         link: "https://www.youtube.com/watch?v=0ISWOBnMzw4"
         tagline: "Smart SprayeX yapay zeka ve görüntü işleme tekniklerini kullanarak sadece yabani ota ilaçlama yapabilen bir akıllı tarım projesidir. Bu projenin traktör aküsü üzerinden beslenmesi yani güç regülasyon işlemleri, PCB anakartının tasarlanması, kameralardan dataların toplanması ve gömülü kart tarafındaki yazılımların geliştirilmesi konularında aktif olarak görev almaktayım."
       
-      - title: Esp ve Mqtt Tabanlı Eğitim Uçağı Haberleşme Sistemi
+      - title: Esp ve Mqtt Tabanlı Haberleşme Sistemi
         link: "https://www.youtube.com/watch?v=-dRJ2ZwshYQ"
         tagline: "Skyart, hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını yapan, yurtiçi ve yurtdışı birçok müşterisi olan bir firmadır. Bu firmada görev aldığım süre boyunca akıllı ev sistemlerinde de kullanılan IoT mantığı ile, uçakların iç elektronik aksesuarlarının birbirleri ile haberleşmesini sağlayan sistemin tasarımında görev aldım. AIP,ACP,Handset gibi uçaklarda kullanılan parçaların PCB çizimini, ESP kodlamalarını ve Mqtt server kurulumunu başarıyla gerçekleştirdim."
       
