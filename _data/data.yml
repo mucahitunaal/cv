@@ -143,6 +143,11 @@ projects:
     intro: >
       Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
     assignments:
+      - title: Esp ve Mqtt Tabanlı Haberleşme Sistemi
+        link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
+        tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
+        Ayrıca üzerinde çok güçlü bir RF haberleşme sistemi vardır ve sistem sayesinde 5 KM mesafeye kadar kablosuz haberleşebilir. Bu yüzden Wi-Fi haberleşmesi kesilse dahi real-time veri toplamaya devam eder. "
+      
       - title: LoRa ve WiFi Tabanlı Dokunmatik TFT RF Veri Toplama Terminali @rge Hypatia 
         link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
         tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
@@ -170,25 +175,25 @@ publications:
     intro: |
       Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
     papers:
-      - title: Ferhad KALELİ
-        link: "https://tr.linkedin.com/in/ferhadkaleli"
-        authors: Robsen Robotics | Genel Müdür
-        #conference: 0554
-        
-      - title: Meryem YILMAZ
-        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
-        authors: Arge Bilişim Ltd. Şti. | Bilgisayar Mühendisi
-        #conference: 0542
+      - title: Kadir ÇELEBİ
+        link: "https://tr.linkedin.com/in/lutfi-kadir-celebi"
+        authors: Bridgesoft A.Ş. | Yapay Zeka Mühendisi
+        #conference: 0545
 
       - title: Mustafa ATAY
         link: "https://tr.linkedin.com/in/mustafaatay4453"
         authors: Skyart Havacılık | Mekatronik Mühendisi
         #conference: 0530
-        
-      - title: Kadir ÇELEBİ
-        link: "https://tr.linkedin.com/in/lutfi-kadir-celebi"
-        authors: Bridgesoft A.Ş. | Yapay Zeka Mühendisi
-        #conference: 0545
+
+      - title: Meryem YILMAZ
+        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
+        authors: Arge Bilişim Ltd. Şti. | Bilgisayar Mühendisi
+        #conference: 0542
+
+      - title: Ferhad KALELİ
+        link: "https://tr.linkedin.com/in/ferhadkaleli"
+        authors: Robsen Robotics | Genel Müdür
+        #conference: 0554
 
 skills:
     title: YETENEKLER
