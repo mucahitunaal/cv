@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: HAKKIMDA
     summary: |
-      10.10.1997 tarihinde Gebze’de doğdum. Gebze’de ailemle birlikte ikamet etmekteyim. Sürekli olarak geliştirmeyi, araştırmayı seven ve öğrenmeye hevesli birisiyim.
+      10.10.1997 tarihinde Gebze’de doğdum, Çayırova'da ikamet etmekteyim. Askerlik hizmeti tamamladım, B sınıfı ehliyetim var ve aktif olarak araç kullanabiliyorum. Sürekli olarak geliştirmeyi, araştırmayı seven ve öğrenmeye hevesli birisiyim.
 education:
     - degree: Elektrik-Elektronik Mühendisliği
       university: Süleyman Demirel Üniversitesi
@@ -74,7 +74,7 @@ experiences:
           - Linux
           - C++
           - C
-          - Raspberry Pi - x
+          - Raspberry Pi
           - Arduino
           - OOP Nesne Yönelimli Programlama
           - Ekip Çalışması
