@@ -54,7 +54,24 @@ education:
       university: Süleyman Demirel Üniversitesi
       time: 2015 - 2019
 experiences:
-    - role: Gömülü Yazılım ve Sistemler / Elektronik Yazılım Mühendisi
+    - role: Gömülü Yazılım ve Sistem Tasarımı / Gömülü Sistemler Tasarımı Mühendisi
+      time: 08.2022 - 01.2023
+      company: Skyart Havacılık,Sultanbeyli/İstanbul
+      details: |
+        Skyart firmasında Gömülü Sistemler Tasarımı Mühendisi olarak görev aldım.
+        Tıpkı akıllı ev sistemlerinde kullanılan IoT mantığı ile hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını tasarladım.
+        MCU olarak ESP kartı kullandım ve ürünlerin PCB kartını Proteus programı ile tasarlayıp ürettirdikten sonra dizgi işlemlerinde de görev aldım.
+        Daha sonra bu AIP,ACP,Handset gibi parçaların birbirleri ile haberleşebilmesi için bir Mqtt server ağı kurdum ve aralarında bir protokol geliştirerek haberleşmelerini sağladım. "
+          - Mqtt
+          - ESP
+          - IoT
+          - Proteus 
+          - PCB Tasarımı
+          - Raspberry Pi
+          - Arduino
+          - OOP Nesne Yönelimli Programlama
+          - Ekip Çalışması
+    - role: Gömülü Yazılım / Elektronik Yazılım Mühendisi
       time: 12.2019 - 05.2022
       company: Arge Bilişim Ltd. Şti.,Sultanbeyli/İstanbul
       details: |
