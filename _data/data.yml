@@ -56,7 +56,7 @@ education:
 experiences:
     - role: Gömülü Donanım Tasarımı / Gömülü Sistemler Mühendisi
       time: 01.2023 - Halen
-      company: Bridgesoft,Gebze/Kocaeli
+      company: Bridgesoft, Gebze/Kocaeli
       details: |
         Bridgesoft'ta Gömülü Sistemler Mühendisi olarak görev almaktayım.
         Geliştirmekte olduğumuz SmartSprayeX projesinin traktör aküsü üzerinden beslenmesi yani güç regülasyon işlemleri, PCB anakartının tasarlanması, kameralardan dataların toplanması ve gömülü kart tarafındaki 
@@ -72,7 +72,7 @@ experiences:
           - I2C,SPI
     - role: Gömülü Sistem Tasarımı / Gömülü Sistemler Tasarımı Mühendisi
       time: 08.2022 - 01.2023
-      company: Skyart Havacılık,Sultanbeyli/İstanbul
+      company: Skyart Havacılık, Sultanbeyli/İstanbul
       details: |
         Skyart firmasında Gömülü Sistemler Tasarımı Mühendisi olarak görev aldım.
         Tıpkı akıllı ev sistemlerinde kullanılan IoT mantığı ile hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını tasarladım.
@@ -89,7 +89,7 @@ experiences:
           - Ekip Çalışması
     - role: Gömülü Yazılım / Elektronik Yazılım Mühendisi
       time: 12.2019 - 05.2022
-      company: Arge Bilişim Ltd. Şti.,Sultanbeyli/İstanbul
+      company: Arge Bilişim Ltd. Şti., Sultanbeyli/İstanbul
       details: |
         Arge Bilişim firmasının Gömülü Yazılım ve Sistemler Tasarımı
         departmanında Elektronik Yazılım mühendisi olarak görev aldım.
@@ -116,7 +116,7 @@ experiences:
       
     - role: Planlama / Stajyer
       time: 07.2019 - 08.2019
-      company: Schneider Electric,TOSB/Kocaeli
+      company: Schneider Electric, TOSB/Kocaeli
       details: |
         Okulumdaki eğitimimi tamamladıktan sonra geriye kalan son 30
         iş günü süresi stajımı Schneider Electric firmasında
@@ -133,7 +133,7 @@ experiences:
       
     - role: Ar-Ge / Stajyer
       time: 02.2019 - 06.2019
-      company: SAMM Teknoloji A.Ş,GOSB/Kocaeli
+      company: SAMM Teknoloji A.Ş, GOSB/Kocaeli
       details: |
         Bölümümüzün sistemi gereği 7 dönem zorunlu eğitim,1 dönem
         ise zorunlu uzun dönem stajımız bulunmaktadır.Bu uzun dönem
@@ -153,7 +153,7 @@ experiences:
     
     - role: Ar-Ge / Stajyer
       time: 06.2018 - 09.2018
-      company: Robsen Robotics,GOSB Teknopark/Kocaeli
+      company: Robsen Robotics, GOSB Teknopark/Kocaeli
       details: |
         Bölümümüzde bulunan 30 günlük stajımı bu firmada
         tamamladım. Burada ROS (Robot Operating System) ve iyi
