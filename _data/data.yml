@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mücahit Ünal
     tagline: Elektrik-Elektronik Mühendisi
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: assets/images/1673890136981.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mucahitunaal@gmail.com
