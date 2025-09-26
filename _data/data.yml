@@ -49,7 +49,7 @@ career-profile:
     title: HAKKIMDA
     summary: |
       10.10.1997 tarihinde Gebze’de doğdum, Çayırova'da ikamet etmekteyim. Askerlik hizmeti tamamladım, B sınıfı ehliyetim var ve aktif olarak araç kullanabiliyorum. Sürekli olarak geliştirmeyi, araştırmayı seven ve öğrenmeye hevesli birisiyim.
-f:
+education:
     - degree: Elektrik-Elektronik Mühendisliği
       university: Süleyman Demirel Üniversitesi
       time: 2015 - 2019
@@ -177,24 +177,24 @@ projects:
       Üzerinde çalıştığım ve geliştirdiğim projeleri bu kısımda inceleyebilirsiniz.
     assignments:
       - title: Smart SprayeX
-        link:
+        link: "https://www.youtube.com/watch?v=0ISWOBnMzw4"
         tagline: "Smart SprayeX yapay zeka ve görüntü işleme tekniklerini kullanarak sadece yabani ota ilaçlama yapabilen bir akıllı tarım projesidir. Bu projenin traktör aküsü üzerinden beslenmesi yani güç regülasyon işlemleri, PCB anakartının tasarlanması, kameralardan dataların toplanması ve gömülü kart tarafındaki yazılımların geliştirilmesi konularında görevler aldım."
       
       - title: Esp ve Mqtt Tabanlı Haberleşme Sistemi
-        link:
+        link: "https://www.youtube.com/watch?v=-dRJ2ZwshYQ"
         tagline: "Skyart, hostes eğitim uçaklarının iç elektronik ve yazılım dizaynlarını yapan, yurtiçi ve yurtdışı birçok müşterisi olan bir firmadır. Bu firmada görev aldığım süre boyunca akıllı ev sistemlerinde de kullanılan IoT mantığı ile, uçakların iç elektronik aksesuarlarının birbirleri ile haberleşmesini sağlayan sistemin tasarımında görev aldım. AIP,ACP,Handset gibi uçaklarda kullanılan parçaların PCB çizimini, ESP kodlamalarını ve Mqtt server kurulumunu başarıyla gerçekleştirdim."
       
       - title: LoRa ve WiFi Tabanlı Dokunmatik TFT RF Veri Toplama Terminali @rge Hypatia 
-        link:
+        link: "https://www.youtube.com/watch?v=EomXU4ctLNs"
         tagline: "@rge HYPATIA, fabrikalarda verimliliği ve kaliteyi arttırmak amacıyla Arge Bilişim firmasında çalışırken donanım ve yazılım olarak geliştirdiğimiz endüstriyel ve dokunmatik bir IOT veri toplama terminalidir. Video, resim ve ses dosyalarını yürütme özelliğine sahiptir. Ses çıkışı kulaklık ve hoparlör ile sağlanır. RFID, barkod ve karekod gibi verileri gerçek zamanda toplar. Kablolu veya kablosuz bir şekilde Wi-Fi ağına bağlanabilir. RS232 ve USB protokollerini kullanarak haberleşir.
         Ayrıca üzerinde çok güçlü bir RF haberleşme sistemi vardır ve sistem sayesinde 5 KM mesafeye kadar kablosuz haberleşebilir. Bu yüzden Wi-Fi haberleşmesi kesilse dahi real-time veri toplamaya devam eder. "
     
       - title: Schneider Electric ADH LTO Configurator
-        link:
+        link: "https://drive.google.com/file/d/1Ty3y6N0M81PLfpqzDQZ0xP2HGS0W_R2E/view"
         tagline: "Schneider Electric firmasında kullanılmak üzere, müşterinin transformatörde olmasını istediği özelliklere göre, siparişi verilen transformatörün hangi tarihte tamamlanacağını hesaplayan C# dili ile yazdığım bir programdır."
 
       - title: Automatic PC Shutdown
-        link:
+        link: "https://drive.google.com/file/d/1QdVpTf8d10EBAKSpsoRGqvixWXe1SDNe/view"
         tagline: "Kişisel bilgisayarı belli bir sürenin sonunda veya belirlenen bir saatte geri sayım olarak kapatmayı sağlayan C# dili ile yazdığım bir programdır."
 
       - title: ROS ve Raspberry Pi Görüntü İşleme Tabanlı Otonom RC Araç
@@ -212,22 +212,22 @@ publications:
       Referanslarıma ait bilgileri bu kısımda bulabilirsiniz.
     papers:
       - title: Kadir ÇELEBİ
-        link:
+        link: "https://tr.linkedin.com/in/lutfi-kadir-celebi"
         authors: Bridgesoft A.Ş. | Yapay Zeka Mühendisi
         #conference: 0545
 
       - title: Mustafa ATAY
-        link:
+        link: "https://tr.linkedin.com/in/mustafaatay4453"
         authors: Skyart Havacılık | Mekatronik Mühendisi
         #conference: 0530
 
       - title: Meryem YILMAZ
-        link:
+        link: "https://tr.linkedin.com/in/meryem-fatma-yilmaz"
         authors: Arge Bilişim Ltd. Şti. | Bilgisayar Mühendisi
         #conference: 0542
 
       - title: Bahar KAÇAK
-        link:
+        link: "https://tr.linkedin.com/in/bahar-ka%C3%A7ak-8bb74b191"
         authors: TOGG | Finansal Controlling
         #conference: 0554
 
@@ -255,4 +255,3 @@ skills:
 
       - name: Java,ROS
         level: 50%
-
